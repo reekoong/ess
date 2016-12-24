@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "com.worldwidesof.com"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.worldwidesof.com"
         }
     },
     "dependent_plugins": {}
