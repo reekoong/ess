@@ -28,6 +28,8 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+
+        navigator.splashscreen.hide();
     },
 
     // Update DOM on a Received Event
